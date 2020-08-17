@@ -1,4 +1,4 @@
-![Background](https://banner2.cleanpng.com/20181208/ucj/kisspng-responsive-web-design-vector-graphics-illustration-web-development-company-web-design-company-mob-5c0c29e9ceaba0.3008250915443010338465.jpg)
+![Background]((https://github.com/ViniCleFer/viniciusclementefernandes/blob/master/src/assets/background.png))
 # Vinícius Fernandes  🖖🏽
 Olá, muito prazer, me chamo Vinícius Fernandes.
 <br/> Estou cursando Análise e Desenvolvimento de Sistemas e o Bootcamp GoStack 13 da Rocketseat.
