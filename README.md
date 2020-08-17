@@ -1,4 +1,4 @@
-![WhatsApp Image 2020-08-14 at 12 06 00](https://user-images.githubusercontent.com/39500774/90291041-5f427a00-de55-11ea-9bed-4277663eb05c.jpeg)
+![Backgroun](https://banner2.cleanpng.com/20181208/ucj/kisspng-responsive-web-design-vector-graphics-illustration-web-development-company-web-design-company-mob-5c0c29e9ceaba0.3008250915443010338465.jpg' ')
 # Vinícius Fernandes  🖖🏽
 Olá, muito prazer, me chamo Vinícius Fernandes.
 <br/> Estou cursando Análise e Desenvolvimento de Sistemas e o Bootcamp GoStack 13 da Rocketseat.
