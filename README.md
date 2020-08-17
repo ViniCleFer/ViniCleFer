@@ -11,5 +11,5 @@ Busco sempre melhorar como pessoa e profissional e assim melhorar o mundo e as p
 🤞🏼🤙🏽 Posso tentar te ajudar com HTML,CSS, Javascript,  ReactJs, React Native e NodeJs.
 👨🏽‍💻 Minha stacks favoritas: React Native, ReactJs e NodeJs. (JavaScript).
 🏟️🎄🎮🎵 Atividades: Curto futebol, plantas, Clash Royale/FIFA, músicas e filmes/seriados em geral.
-📟 Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Vinicius Fernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinclefer/)](https://www.linkedin.com/in/vinclefer/) 
+📟 Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ViníciusFernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/viniclefer/)](https://www.linkedin.com/in/viniclefer/) 
 [![Gmail Badge](https://img.shields.io/badge/-viniciusclementefernandes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusclementefernandes@gmail.com)](mailto:viniciusclementefernandes@gmail.com)
