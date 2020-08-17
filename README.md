@@ -1,4 +1,4 @@
-![Background]((https://github.com/ViniCleFer/viniciusclementefernandes/blob/master/src/assets/background.png))
+![Background](https://github.com/ViniCleFer/viniciusclementefernandes/blob/master/assets/background.png)
 # Vinícius Fernandes  🖖🏽
 Olá, muito prazer, me chamo Vinícius Fernandes.
 <br/> Estou cursando Análise e Desenvolvimento de Sistemas e o Bootcamp GoStack 13 da Rocketseat.
