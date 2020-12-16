@@ -25,6 +25,6 @@
 <br/> 💻 💙 I seek to collaborate on projects on both the Front-end and the Back-end using ReactJs, React Native and NodeJs.
 <br/> 🤞🏼 🤙🏽 I can try to help you with HTML, CSS, Javascript, ReactJs, React Native and NodeJs.
 <br/> 👨🏽‍💻 My favorite stacks: React Native, ReactJs and NodeJs. (JavaScript).
-<br/> 🏟️ 🎄 🎮 🎵 Activities: Short football, plants, Clash Royale / FIFA, music and movies / series in general.
+<br/> 🏟️ 🎄 🎮 🎵 Activities: I like soccer, plants, Clash Royale / FIFA, music and movies / series in general.
 <br/> 📟 Contact me: [![Linkedin Badge](https://img.shields.io/badge/-ViníciusFernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/viniclefer/)](https://www.linkedin.com/in/viniclefer/) 
 [![Gmail Badge](https://img.shields.io/badge/-viniciusclementefernandes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusclementefernandes@gmail.com)](mailto:viniciusclementefernandes@gmail.com)
