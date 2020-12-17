@@ -1,7 +1,7 @@
 ![Background](https://github.com/ViniCleFer/viniciusclementefernandes/blob/master/assets/background.png)
 # Vinícius Fernandes  🖖🏽
 
-<br/>:brazil:
+<br/>🇧🇷
 <br/>Olá, muito prazer, me chamo Vinícius Fernandes.
 <br/> Estou cursando Análise e Desenvolvimento de Sistemas e recentemente concluí o Bootcamp GoStack 13 da Rocketseat.
 <br/> Meu foco é dominar o JavaScript e com isso dominar o ReactJs, React Native e NodeJs. 
@@ -15,7 +15,7 @@
 <br/> 📟 Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ViníciusFernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/viniclefer/)](https://www.linkedin.com/in/viniclefer/) 
 [![Gmail Badge](https://img.shields.io/badge/-viniciusclementefernandes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusclementefernandes@gmail.com)](mailto:viniciusclementefernandes@gmail.com)
 
-<br/>:us:
+<br/>🇺🇸
 <br/>Hello, my pleasure, my name is Vinícius Fernandes.
 <br/> I am studying Systems Analysis and Development and recently completed the Bootcamp GoStack 13 from Rocketseat.
 <br/> My focus is to master JavaScript and thereby master ReactJs, React Native and NodeJs.
