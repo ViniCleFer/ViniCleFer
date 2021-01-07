@@ -7,7 +7,7 @@
 <br/> Meu foco é dominar o JavaScript e com isso dominar o ReactJs, React Native e NodeJs. 
 <br/> Busco sempre melhorar como pessoa e profissional e assim melhorar o mundo e as pessoas ao meu redor. 👨🏽‍💻  🌎
 <br/>
-<br/> 🚀 Atualmente trabalho na **Viceri** como Dev Trainee - React Native
+<br/> 🚀 Atualmente trabalho na **Viceri** como Dev Júnior - React Native
 <br/> 💻 💙 Busco colaborar em projetos tanto no Front-end quanto no Back-end usando ReactJs, React Native e NodeJs. 
 <br/> 🤞🏼 🤙🏽 Posso tentar te ajudar com HTML,CSS, Javascript,  ReactJs, React Native e NodeJs.
 <br/> 👨🏽‍💻 Minhas stacks favoritas: React Native, ReactJs e NodeJs. (JavaScript).
@@ -21,7 +21,7 @@
 <br/> My focus is to master JavaScript and thereby master ReactJs, React Native and NodeJs.
 <br/> I always seek to improve as a person and professional and thus improve the world and the people around me. 👨🏽‍💻 🌎
 <br/>
-<br/> 🚀 Currently working at **Viceri** as Dev Trainee - React Native
+<br/> 🚀 Currently working at **Viceri** as Dev Junior - React Native
 <br/> 💻 💙 I seek to collaborate on projects on both the Front-end and the Back-end using ReactJs, React Native and NodeJs.
 <br/> 🤞🏼 🤙🏽 I can try to help you with HTML, CSS, Javascript, ReactJs, React Native and NodeJs.
 <br/> 👨🏽‍💻 My favorite stacks: React Native, ReactJs and NodeJs. (JavaScript).
