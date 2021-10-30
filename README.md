@@ -1,4 +1,4 @@
-// ![Background](https://github.com/ViniCleFer/viniciusclementefernandes/blob/master/assets/background.png)
+<!-- ![Background](https://github.com/ViniCleFer/viniciusclementefernandes/blob/master/assets/background.png) -->
 # Vinícius Fernandes  🖖🏽
 
 <br/>🇧🇷
